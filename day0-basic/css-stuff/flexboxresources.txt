@@ -1,5 +1,0 @@
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
-
-https://www.youtube.com/watch?v=phWxA89Dy94
